@@ -15,3 +15,7 @@ THis is the first commit from main branch
 * adding more code
 * still adding more
 * now it is completed
+
+### conflict
+* this is from developer-1. I want to keep this line of code
+* this is again from developer-1 adding more code
